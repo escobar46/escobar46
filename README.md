@@ -45,13 +45,14 @@ I come from QA, so everything I build with AI ships with **regression tests, gua
 
 ## Certifications
 
-| | Certification | Issuer | Year |
-| --- | --- | --- | --- |
-| <img src="https://img.shields.io/badge/-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" /> | Agentic AI applications in production with Amazon Bedrock AgentCore | AWS Training & Certification | 2026 |
-| <img src="https://img.shields.io/badge/-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" /> | Well-Architected agentic applications | AWS Training & Certification | 2026 |
-| <img src="https://img.shields.io/badge/-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" /> | Agentic AI · Generative AI Fundamentals | AWS Training & Certification | 2026 |
-| <img src="https://img.shields.io/badge/-052FAD?style=flat&logo=ibm&logoColor=white" alt="IBM" /> | Cybersecurity Fundamentals | IBM SkillsBuild | 2026 |
-| 🛡️ | Cybersecurity Bootcamp, intermediate level (159 h) | MinTIC · Universidad de Caldas | 2025 |
+| Issuer | Certification | Date |
+| --- | --- | --- |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" /> | **Building Production-Ready AI Agents with Amazon Bedrock AgentCore** | Sep 2026 |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" /> | **Building Your Agentic Applications the Well-Architected Way** | Sep 2026 |
+| <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" /> | **Fundamentals of Agents** (Unit 1, Hugging Face Agents Course) | Oct 2026 |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" /> | Agentic AI: The Future of Generative AI · Fundamentals of Generative AI | Sep 2026 |
+| <img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white" alt="Google" /> | Google AI Essentials (Coursera): [AI Fundamentals](https://coursera.org/verify/QQ7BSK4IRX07) · [Data Analysis](https://coursera.org/verify/0K162YFJOPMI) · [Research & Insights](https://coursera.org/verify/6WLOFYALAUVN) · [Brainstorming & Planning](https://coursera.org/verify/CVLWLO3YG0HA) · [Writing & Communicating](https://coursera.org/verify/OI87Z0D8ZV7J) · [Content Creation](https://coursera.org/verify/EGDCUON6T6RZ) | Nov 2026 |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white" alt="IBM" /> <img src="https://img.shields.io/badge/MinTIC-1f2937?style=flat" alt="MinTIC" /> | Cybersecurity Fundamentals (IBM SkillsBuild, 2026) · Cybersecurity Bootcamp, 159 h (MinTIC · Universidad de Caldas, 2025) | 2025–26 |
 
 ---
 
@@ -76,9 +77,10 @@ Vengo de QA: todo lo que construyo con IA lleva **tests de regresión, controles
 
 ### Certificaciones
 
-- **AWS Training & Certification (2026):** agentes de IA en producción con Amazon Bedrock AgentCore, aplicaciones agénticas Well-Architected, Agentic AI y fundamentos de IA generativa.
-- **Cybersecurity Fundamentals:** IBM SkillsBuild (2026).
-- **Bootcamp de Ciberseguridad, nivel intermedio (159 h):** MinTIC y Universidad de Caldas (2025).
+- **AWS (sep 2026):** agentes de IA listos para producción con Amazon Bedrock AgentCore y aplicaciones agénticas Well-Architected; además Agentic AI y fundamentos de IA generativa.
+- **Hugging Face (oct 2026):** Fundamentals of Agents, Unidad 1 del Agents Course.
+- **Google AI Essentials, vía Coursera (nov 2026):** seis cursos de IA aplicada.
+- **Ciberseguridad:** IBM SkillsBuild (2026) y Bootcamp de 159 h de MinTIC y la Universidad de Caldas (2025).
 
 📩 Escríbeme por [LinkedIn](https://www.linkedin.com/in/brandon-escobar-ocampo/) o a brandonescobaroca46@gmail.com.
 
