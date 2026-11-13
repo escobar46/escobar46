@@ -32,12 +32,22 @@ I come from QA, so everything I build with AI ships with **regression tests, gua
 | **Travel price capture** (Testiando) | ~1 month of manual work → under 1 hour, running 24/7 | Python · Selenium |
 | **Project Amatista** (Testiando) | Booking and cancellation E2E automation that replaced a 100% manual QA process | Selenium · pytest |
 | **Enterprise RAG chatbot** (Testiando) | Answers from internal docs and images, with a state-graph decision flow | LangChain · LangGraph · ChromaDB |
-| [**ai-energy-management**](https://github.com/escobar46/ai-energy-management) | Meter monitoring, anomaly detection and explainable recommendations | Python · FastAPI · React · Pandas |
 
 ## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,aws,linux,git,github,nextjs,react,ts&perline=11" alt="Tech stack" />
+</p>
+
+**AI dev tools:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=windsurf&logoColor=white" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/Higgsfield-6D28D9?style=for-the-badge" alt="Higgsfield" />
+  <img src="https://img.shields.io/badge/Spec--Driven%20Development-BEF264?style=for-the-badge" alt="Spec-Driven Development" />
 </p>
 
 **AI & LLMs:** LangChain · LangGraph · RAG · ChromaDB · MCP · Anthropic API · Claude Code (subagents, skills, hooks) · prompt engineering<br>
