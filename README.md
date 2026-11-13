@@ -22,7 +22,7 @@ I come from QA, so everything I build with AI ships with **regression tests, gua
 
 - 🔭 Currently: **Technical Lead & AI Engineer** at I&D S.A.S., building a platform that turns AutoCAD drawings into sign-ready electrical (RETIE) calculation reports.
 - 🎓 Graduate Specialization in Artificial Intelligence (in progress).
-- 💼 Open to **AI Engineer, AI Automation Engineer and QA Automation** roles: remote, hybrid or on-site in Manizales.
+- 💼 Open to:  **AI Engineer, AI Automation Engineer and QA Automation** roles: remote, hybrid or on-site in Manizales.
 
 ## Selected results
 
@@ -65,7 +65,7 @@ Vengo de QA: todo lo que construyo con IA lleva **tests de regresión, controles
 
 - 🔭 Hoy: **Technical Lead & AI Engineer** en I&D S.A.S., donde construyo una plataforma que convierte planos de AutoCAD en memorias de cálculo eléctrico RETIE listas para firma.
 - 🎓 Especialización en Inteligencia Artificial (en curso).
-- 💼 Abierto a roles de **AI Engineer, AI Automation Engineer y QA Automation**: remoto, híbrido o presencial en Manizales.
+- 💼 Abierto a roles de:  **AI Engineer, AI Automation Engineer y QA Automation**: remoto, híbrido o presencial en Manizales.
 
 ### Logros
 
