@@ -43,13 +43,6 @@ I come from QA, so everything I build with AI ships with **regression tests, gua
 **AI & LLMs:** LangChain · LangGraph · RAG · ChromaDB · MCP · Anthropic API · Claude Code (subagents, skills, hooks) · prompt engineering<br>
 **Testing:** pytest · Selenium WebDriver · E2E & regression · LLM / agent evaluation · CI quality gates
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=escobar46&show_icons=true&hide_border=true&bg_color=0d1117&title_color=BEF264&icon_color=BEF264&text_color=c9d1d9&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escobar46&layout=compact&hide_border=true&bg_color=0d1117&title_color=BEF264&text_color=c9d1d9" height="160" alt="Top languages" />
-</p>
-
 ---
 
 <details>
